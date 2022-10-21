@@ -1,0 +1,8 @@
+this.$router.push(
+    { path:'/btn' }
+)
+
+this    Vueをもとにしたオブジェクトのインスタンス
+$router router属性へアクセス
+        →myRouterを設定している
+        引数のパスに遷移させる
